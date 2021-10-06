@@ -2,9 +2,10 @@
 
 ### Connect with me:
 
+[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://svgshare.com/i/at4.svg"/>][email]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Email" width="22px" src="https://svgshare.com/i/at4.svg"/>][email]
+
 <br/>
 <br>
 
@@ -16,8 +17,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/V93HZaB.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="36px" src="https://i.imgur.com/Q5slKp6.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="40px" src="https://i.imgur.com/iK5bplk.png" />][webdevplaylist]
+[<img align="left" alt="MySQL" width="40px" src="https://i.imgur.com/Q5slKp6.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="38px" src="https://i.imgur.com/iK5bplk.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
 <br />
