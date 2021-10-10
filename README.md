@@ -15,7 +15,7 @@
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
+[<img align="left" alt="Java" width="40px" src="https://i.imgur.com/ebk9g4T.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/V93HZaB.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="40px" src="https://i.imgur.com/Q5slKp6.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="38px" src="https://i.imgur.com/iK5bplk.png" />][webdevplaylist]
