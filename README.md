@@ -29,7 +29,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  ### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ITIvanov18)](https://github.com/ITIvanov18/github-readme-stats)
+
 
 </details>
 
