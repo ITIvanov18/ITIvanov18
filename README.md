@@ -28,8 +28,8 @@
 <br></br>
 <details>
   <summary>:zap: GitHub Stats</summary>
-
-
+  
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=ITIvanov18&langs_count=8">
 
 </details>
 
