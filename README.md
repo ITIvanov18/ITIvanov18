@@ -17,7 +17,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="Java" width="40px" src="https://i.imgur.com/ebk9g4T.png" />][webdevplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://i.imgur.com/V93HZaB.png" />][webdevplaylist]
-[<img align="left" alt="C++" width="38px" src="https://i.imgur.com/WbCM2bP.png" />][webdevplaylist]
+[<img align="left" alt="C++" width="34px" src="https://i.imgur.com/WbCM2bP.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="38px" src="https://i.imgur.com/iK5bplk.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 
