@@ -42,6 +42,8 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
+Profile Views: <br><img src="https://profile-counter.glitch.me/ITIvanov18/count.svg"></img>
+
 
 <!--
 **ITIvanov18/ITIvanov18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
