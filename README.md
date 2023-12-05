@@ -21,13 +21,13 @@
 
 <h2 align="center"> Connect with me: </h2>
 <p align="center">
-  <a href="[email]">
+  <a href="mailto:ivan162593@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
     <img align="center" alt="Email" width="35px" src="https://svgshare.com/i/at4.svg"/>
   </a>
-  <a href="[linkedin]">
+  <a href="https://www.linkedin.com/in/ivan-ivanov-739012211/">
     <img align="center" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="[instagram]">
+  <a href="https://www.instagram.com/_ivan1441_/">
   <img align="center" alt="Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
@@ -40,12 +40,8 @@
 </p>
 
 [instagram]: https://www.instagram.com/_ivan1441_/
-[email]: mailto:ITIvanov18@codingburgas.bg?subject=[GitHub]%20Source%20Han%20Sans
+[email]: mailto:ivan162593@gmail.com?subject=[GitHub]%20Source%20Han%20Sans
 [linkedin]: https://www.linkedin.com/in/ivan-ivanov-739012211/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <!--
 **ITIvanov18/ITIvanov18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
