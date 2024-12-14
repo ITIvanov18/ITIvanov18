@@ -22,7 +22,7 @@
 <h2 align="center"> Connect with me: </h2>
 <p align="center">
   <a href="mailto:ivan162593@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
-    <img align="center" alt="Email" width="35px" src="https://svgshare.com/i/at4.svg"/>
+    <img align="center" alt="Email" width="40px" src="https://www.svgrepo.com/show/343427/email.svg"/>
   </a>
   <a href="https://www.linkedin.com/in/ivan-ivanov-739012211/">
     <img align="center" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
