@@ -2,15 +2,16 @@
 
 <h2 align="center"> Languages and Tools: </h2>
 <p align="center">
-<img alt="Java" width="50px" src="https://i.imgur.com/ebk9g4T.png">
-<img alt="C++" width="48px" src="https://i.imgur.com/WbCM2bP.png" >
+<img alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+<img alt="C++" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" >
 <img alt="HTML5" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img alt="CSS3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> &nbsp;
 <img alt="SQL" width="42px" src="https://i.imgur.com/V93HZaB.png">
-<img alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
-<img alt="Git" width="42px" src="https://i.imgur.com/4T3LVvJ.png">
-<img alt="GitHub" width="45px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png">
+<img alt="Visual Studio Code" width="42px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg">&nbsp;
+<img alt="Apache Maven" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg">
+<img alt="Git" width="43px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">&nbsp;
+<img alt="GitHub" width="45px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
 </p>
 
 <br>
@@ -24,6 +25,7 @@
   <a href="mailto:ivan162593@gmail.com?subject=[GitHub]%20Source%20Han%20Sans">
     <img align="center" alt="Email" width="40px" src="https://www.svgrepo.com/show/343427/email.svg"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/ivan-ivanov-739012211/">
     <img align="center" alt="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
